@@ -1,5 +1,5 @@
 # Player Re-Identification in a Single Video
-This project performs player tracking and re-identification using YOLOv11 and DeepSORT. Created as part of the LIAT.ai Internship Assignment.
+This project performs player tracking and re-identification using YOLO and DeepSORT.
 
 ## Overview
 - Uses YOLOv model(Ultralytics) for player detection
